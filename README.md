@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### I am an undergrad CS student looking for full-time opportunities as a software developer
+
+### Connect with me:
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-Dinesh%20Jagai-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dineshjagai/)<br />
+[![blog badge](https://img.shields.io/badge/Website-dineshjagai.github.io-green?style=flat-square&logo=google-chrome&logoColor=green)](https://dineshjagai.github.io)<br />
+[![gmail badge](https://img.shields.io/badge/Email-dinesh97%40seas.upenn.edu-blue?style=flat-square&logo=gmail)](mailto:dinesh97@seas.upenn.edu)<br />
 <!--
 **dineshjagai/dineshjagai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
