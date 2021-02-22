@@ -44,17 +44,6 @@ I'm a current senior at Penn majoring in Computer Science and submatriculating i
 
 ---
 
-
-### Dinesh's github stats
-
-<a href="https://github.com/dineshjagai">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshjagai&show_icons=true&hide_border=true&count_private=true" />
-</a> <a href="https://github.com/dineshjagai">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshjagai&hide=Jupyter%20Notebook&layout=compact&count_private=true&langs_count=9" />
-</a>
-
----
-
 ### Connect with me:
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-Dinesh%20Jagai-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dineshjagai/)<br />
 [![Portfolio badge](https://img.shields.io/badge/Website-dineshjagai.github.io-green?style=flat-square&logo=google-chrome&logoColor=green)](https://dineshjagai.github.io)<br />
